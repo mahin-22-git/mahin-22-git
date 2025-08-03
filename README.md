@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Arif Mahmud Rifat  
+# 👋 Hello World! I'm Mahin Ahmed  
 🎓 CS Enthusiast | 💻 Software Engineer | 🧩 Problem Solver
 
 ---

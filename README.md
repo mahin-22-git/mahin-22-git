@@ -75,14 +75,14 @@ I'm a passionate Computer Science undergraduate who loves building scalable web 
 
 ## 🌐 Let's Connect
 
-🔗 [Portfolio Website](https://arifrifat.dev)  
-💼 [LinkedIn](https://linkedin.com/in/arif-rifat-dev)  
-💻 [GitHub](https://github.com/arifrifatdev)  
-⚔️ [Codeforces](https://codeforces.com/profile/arif_13)  
-🧠 [LeetCode](https://leetcode.com/arifrifat13)
+🔗 [Portfolio Website](https://mahin-22-git.github.io)  
+💼 [LinkedIn](https://linkedin.com/in/mahinahmed)  
+💻 [GitHub](https://github.com/mahinahmed)  
+⚔️ [Codeforces](https://codeforces.com/profile/mahinahmed)  
+🧠 [LeetCode](https://leetcode.com/mahinahmed)
 
-📧 Email: arif.rifat.dev@gmail.com  
-📱 Phone: +8801611123456  
+📧 Email: mdrafidulislammahin@gmail.com  
+📱 Phone: +8801306595303
 
 ---
 
